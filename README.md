@@ -6,7 +6,7 @@ The website focuses on travel, culture, architecture, design, and everyday obser
 
 ## Live Website
 
-Live Demo: **Coming Soon**
+Live Demo: https://luma-journal-nahiya.netlify.app
 
 ## GitHub Repository
 
